@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [];
+const statusMessages = ["Coding to help!"];
 
 
 let currentIndex = 0;
